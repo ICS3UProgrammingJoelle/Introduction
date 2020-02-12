@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\bin\Debug\HelloWorldWithMenu.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\bin\Debug\HelloWorldWithMenu.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\bin\Debug\HelloWorldWithMenu.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.Form1.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldWithMenu\HelloWorldWithMenu\obj\Debug\HelloWorldWithMenu.pdb

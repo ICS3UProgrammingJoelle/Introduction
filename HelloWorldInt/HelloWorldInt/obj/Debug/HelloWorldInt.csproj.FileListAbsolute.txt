@@ -1,0 +1,10 @@
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe.config
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\bin\Debug\HelloWorldInt.pdb
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csprojAssemblyReference.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.Form1.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.Properties.Resources.resources
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.GenerateResource.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.csproj.CoreCompileInputs.cache
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.exe
+N:\Classes\Sem2-Winter2020\ICS3U Programming\IJoelle (s440139)\Introduction\HelloWorldInt\HelloWorldInt\obj\Debug\HelloWorldInt.pdb
